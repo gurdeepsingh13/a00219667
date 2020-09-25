@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/walia/.dotnet/store/|arch|/|tfm|",
+      "/Users/walia/.nuget/packages"
+    ]
+  }
+}
